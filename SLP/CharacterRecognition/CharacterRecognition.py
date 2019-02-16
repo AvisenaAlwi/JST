@@ -6,6 +6,11 @@ from os import listdir
 from os.path import isfile, join
 now = lambda: datetime.datetime.now()
 
+"""
+Author : Avisena Abdillah Alwi
+
+Created at : 9 Feb 2019
+"""
 
 class CharacterRecognition:
 
